@@ -15,14 +15,13 @@ export default function page() {
         <BannerMain />
         <About />
         <Projetos />
-        <Skills />
         <Habilidades />
       </main>
     </>
 
   )
 }
-
+{/* <Skills /> */ }
 
 
 
